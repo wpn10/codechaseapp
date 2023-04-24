@@ -1,5 +1,5 @@
 # codechaseapp
-The LeetCode App is a web application that allows users to practice coding challenges on LeetCode. The app is built using Django and React, and it allows users to view, submit, and solve coding challenges, as well as view their submissions history.
+The Codechase App is a web application that allows users to practice coding challenges on codechase. The app is built using Django and React, and it allows users to view, submit, and solve coding challenges, as well as view their submissions history.
 
 Getting Started
 To run the LeetCode App, you'll need to have the following installed on your machine:
