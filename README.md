@@ -9,7 +9,7 @@ Node.js 10+
 To get started, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your-username/leetcode-app.git
+git clone https://github.com/wpn10/codechaseapp.git
 
 Install the dependencies for the Django app:
 cd codechase-app
